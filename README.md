@@ -1,7 +1,7 @@
 # 🔐 JWT Frontend – Experiment 8
 
-**Name:** Akshat
-**UID:** 23BAI70667
+**Name:** Sudheer
+**UID:** 23BAI70356
 
 ## 📌 Project Overview
 
